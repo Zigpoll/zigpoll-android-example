@@ -27,7 +27,7 @@ android {
 
 dependencies {
     // Via JitPack until the SDK is published to Maven Central.
-    implementation("com.github.zigpoll:zigpoll-android:main-SNAPSHOT")
+    implementation("com.github.zigpoll:zigpoll-android:master-SNAPSHOT")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.11.0")
 }
